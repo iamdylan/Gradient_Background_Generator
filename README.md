@@ -11,9 +11,11 @@
 
 <img src="./images/logo.png" align="right" title="Logo" width="150" height="150">
 
-This was just something I created for fun. It lets you select a gradient background by specifying two colors individually. This is achieved by clicking on the textboxes, which then displays a color picker which lets you select a color which keeps updating in realtime as you are tinkering with the picker. This is achieved through the jscolor library with some alterations. On MAC systems the default color picker would update the background in realtime, however in windows it wasn't the case. Therefore I had to use the jscolor library and change it to work with the project.
+This was just something I created for fun. It lets you select a gradient background by specifying two colors individually. This is achieved by clicking on the textboxes, which then displays a color picker that lets you select a color, updating the background in realtime as you are tinkering with the picker. This is achieved through the jscolor library with some alterations.
 
-It has been deployed on GitHub Pages so that you can take it for a spin by clicking on the "Demo" link below. The project is pushed onto the gh-pages branch allowing the static website to be opened and viewed.
+On MAC systems the default color picker would update the background in realtime, however in Windows it wasn't the case. Therefore I had to use the jsColor library and change it to work with the project.
+
+It has been deployed on GitHub Pages so that you can try it out by clicking on the "Demo" link below. The project is pushed onto the gh-pages branch allowing the static website to be opened and viewed.
 
 Try it out: 
 ## [DEMO](https://iamdylan.github.io/Gradient_Background_Generator/)
