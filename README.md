@@ -18,7 +18,7 @@ On MAC systems the default color picker would update the background in realtime,
 It has been deployed on GitHub Pages so that you can try it out by clicking on the "Demo" link below. The project is pushed onto the gh-pages branch allowing the static website to be opened and viewed.
 
 Try it out: 
-## [DEMO](https://iamdylan.github.io/Gradient_Background_Generator/)
+## [DEMO](https://iamdylan.github.io/gradient-background-generator/)
 
 <br>
 
